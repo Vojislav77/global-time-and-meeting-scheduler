@@ -5,7 +5,7 @@
 
 A powerful, privacy-first **Progressive Web App (PWA)** for coordinating meetings across time zones. Features real-time world clocks, intelligent business hour overlap detection, calendar integration, and collaborative notes—all running locally in your browser.
 
-![Global Time Scheduler](https://via.placeholder.com/1200x600/2b59c3/ffffff?text=Global+Time+%26+Meeting+Scheduler+Screenshot)
+<img width="1681" height="1949" alt="gtms" src="https://github.com/user-attachments/assets/5f578c11-6bc5-45a1-b8b5-fc75be9e24e6" />
 
 ## ✨ Features
 
@@ -47,6 +47,10 @@ Integrated affiliate links to essential tools for global teams:
 - 🛡️ **SafetyWing** - Travel & health insurance for digital nomads
 - 📝 **Notion** - All-in-one workspace & documentation
 - 📅 **Calendly** - Automated meeting scheduling
+
+## ☁️ Live Demo
+[Click here to try it live](https://vojislav77.github.io/global-time-and-meeting-scheduler/)
+
 
 ## 🚀 Installation
 
