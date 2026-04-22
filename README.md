@@ -57,5 +57,5 @@ Integrated affiliate links to essential tools for global teams:
 ### Option 1: Run Locally
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/global-time-scheduler.git
+   git clone https://github.com/vojislav77/global-time-scheduler.git
    cd global-time-scheduler
