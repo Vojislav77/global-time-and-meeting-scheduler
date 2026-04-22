@@ -49,7 +49,7 @@ Integrated affiliate links to essential tools for global teams:
 - 📅 **Calendly** - Automated meeting scheduling
 
 ## ☁️ Live Demo
-[Click here to try it live](https://vojislav77.github.io/global-time-and-meeting-scheduler/)
+[Click here to try it live](https://vojislav77.github.io/global-time-meeting-scheduler/)
 
 
 ## 🚀 Installation
@@ -57,5 +57,5 @@ Integrated affiliate links to essential tools for global teams:
 ### Option 1: Run Locally
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/vojislav77/global-time-scheduler.git
+   git clone https://github.com/vojislav77/global-time-meeting-scheduler.git
    cd global-time-scheduler
